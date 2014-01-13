@@ -1,0 +1,7 @@
+parameters:
+#    hello_di.example.class: Hello\DiBundle\Example
+
+services:
+#    hello_di.example:
+#        class: %hello_di.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

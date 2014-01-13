@@ -1,2 +1,6 @@
+hello_di:
+    resource: "@HelloDiBundle/Resources/config/routing.yml"
+    prefix:   /
+
 _acme_demo:
     resource: "@AcmeDemoBundle/Resources/config/routing.yml"
